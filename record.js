@@ -41,7 +41,7 @@
         '      new rrwebPlayer({' +
         '        target: document.body,' +
         '        data: {' +
-        '          events: ' + JSON.stringify(events)
+        '          events: ' + JSON.stringify(events) +
         '        }' +
         '      })' +
         '    </script>' +
